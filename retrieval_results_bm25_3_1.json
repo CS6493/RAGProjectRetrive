@@ -1,0 +1,48 @@
+[
+  {
+    "doc_id": "hotpot_0_7_0",
+    "score": 10.411956602347164,
+    "embedding": null,
+    "metadata": {
+      "source": "hotpot",
+      "item_index": 0,
+      "context_index": 7,
+      "title": "Sinister (film)",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "chunk_length": 119,
+      "original_sentences_count": 2
+    },
+    "chunk_text": "Sinister is a 2012 supernatural horror film directed by Scott Derrickson and written by Derrickson and C Robert Cargill"
+  },
+  {
+    "doc_id": "hotpot_0_0_0",
+    "score": 9.100450326794036,
+    "embedding": null,
+    "metadata": {
+      "source": "hotpot",
+      "item_index": 0,
+      "context_index": 0,
+      "title": "Ed Wood (film)",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "chunk_length": 152,
+      "original_sentences_count": 3
+    },
+    "chunk_text": "Ed Wood is a 1994 American biographical period comedy-drama film directed and produced by Tim Burton, and starring Johnny Depp as cult filmmaker Ed Wood"
+  },
+  {
+    "doc_id": "corpus_Ed Wood (film)_0",
+    "score": 9.100450326794036,
+    "embedding": null,
+    "metadata": {
+      "source": "corpus",
+      "original_doc_id": "Ed Wood (film)",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "chunk_length": 152,
+      "original_text_length": 423
+    },
+    "chunk_text": "Ed Wood is a 1994 American biographical period comedy-drama film directed and produced by Tim Burton, and starring Johnny Depp as cult filmmaker Ed Wood"
+  }
+]
