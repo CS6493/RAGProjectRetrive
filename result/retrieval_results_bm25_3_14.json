@@ -1,0 +1,53 @@
+{
+  "query": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 198,
+      "score": 40.47064403829489,
+      "text": "House and is currently a sub-imprint of Ballantine Books, itself an imprint of Random House. It was named after a Stanford White brownstone mansion on Madison Avenue that was the home of Random House for twenty years. 888 7th Avenue: 888 7th Avenue is a 628 ft (191m) tall modern-style office skyscraper in Midtown Manhattan which was completed in 1969 and has 46 floors. Emery Roth & Sons designed the building, which is tied with Central Park Place for the 65th tallest building in New York City. It currently",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 13,
+        "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+        "answer": "no",
+        "role": "development",
+        "chunk_id": "hotpotqa_13_199"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 200,
+      "score": 31.856950751634997,
+      "text": "d States, that is used as the headquarters of book publisher Random House and a luxury apartment complex. The book publisher entrance is on Broadway and goes up to 27 floors, while the apartment complex entrance is on West 56th Street. Pershing Square Capital Management: Pershing Square Capital Management is an American hedge fund management company founded and run by Bill Ackman, located at 888 7th Avenue in New York. Carl B. Stokes United States Courthouse: The Carl B. Stokes Federal Court House Building",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 13,
+        "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+        "answer": "no",
+        "role": "development",
+        "chunk_id": "hotpotqa_13_201"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 10770,
+      "score": 27.1572733998809,
+      "text": "re Association. The theatre, located at 1308 Fifth Avenue in the historic Skinner Building, has been listed on the U.S. National Register of Historic Places since 1978. 888 7th Avenue: 888 7th Avenue is a 628 ft (191m) tall modern-style office skyscraper in Midtown Manhattan which was completed in 1969 and has 46 floors. Emery Roth & Sons designed the building, which is tied with Central Park Place for the 65th tallest building in New York City. It currently carries the Vornado Realty Trust corporate",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 785,
+        "question": "Is the building located at 200 West Street taller than the one at 888 7th Avenue?",
+        "answer": "yes",
+        "role": "development",
+        "chunk_id": "hotpotqa_785_10771"
+      }
+    }
+  ]
+}

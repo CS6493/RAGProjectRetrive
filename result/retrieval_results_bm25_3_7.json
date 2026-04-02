@@ -1,0 +1,53 @@
+{
+  "query": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 76,
+      "score": 16.78909310966708,
+      "text": "orn April 1, 1971), better known by his stage name Method Man, is an American rapper, record producer, and actor. He is known as a member of the East Coast hip hop collective Wu-Tang Clan. He is also one half of the hip hop duo Method Man & Redman. He took his stage name from the 1979 film \"Method Man\". In 1996, he won a Grammy Award for Best Rap Performance by a Duo or Group, for \"I'll Be There for You/You're All I Need to Get By\", with American R&B singer-songwriter Mary J. Blige. Indriati Iskak:",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 6,
+        "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+        "answer": "Eenasul Fateh",
+        "role": "development",
+        "chunk_id": "hotpotqa_6_77"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 66892,
+      "score": 16.746320734600985,
+      "text": "ee Williams, Morgan Freeman, Alfre Woodard, Denzel Washington and Samuel L. Jackson. Criss Angel: Christopher Nicholas Sarantakos (born December 19, 1967), known by the stage name Criss Angel, is an American magician, illusionist and musician. Angel began his career in New York City, before moving his base of operations to the Las Vegas Valley. He is known for starring in the television and stage show \"Criss Angel Mindfreak\" and his previous live performance illusion show \"Criss Angel Believe\" in",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 4894,
+        "question": "Which American actors and comedian played a New York City tailor in The Angel Levine?",
+        "answer": "Zero Mostel",
+        "role": "development",
+        "chunk_id": "hotpotqa_4894_66893"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 80,
+      "score": 16.663588801982794,
+      "text": "entrepreneur, he has invested in various start-up companies including Localeur, in which he is also an advisor and consultant. Criss Angel: Christopher Nicholas Sarantakos (born December 19, 1967), known by the stage name Criss Angel, is an American magician, illusionist and musician. Angel began his career in New York City, before moving his base of operations to the Las Vegas Valley. He is known for starring in the television and stage show \"Criss Angel Mindfreak\" and his previous live performance",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 6,
+        "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+        "answer": "Eenasul Fateh",
+        "role": "development",
+        "chunk_id": "hotpotqa_6_81"
+      }
+    }
+  ]
+}

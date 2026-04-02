@@ -1,0 +1,53 @@
+{
+  "query": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 254,
+      "score": 48.84225514417756,
+      "text": "Invitation Tournament where they lost in the first round to Georgia. America East Conference: The America East Conference is a collegiate athletic conference affiliated with the NCAA Division I, whose members are located mainly in the Northeastern United States. The conference was known as the Eastern College Athletic Conference-North from 1979 to 1988 and the North Atlantic Conference from 1988 to 1996. Vermont Catamounts men's soccer: The Vermont Catamounts men's soccer team represents the University of",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 16,
+        "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+        "answer": "the North Atlantic Conference",
+        "role": "development",
+        "chunk_id": "hotpotqa_16_255"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 255,
+      "score": 47.34546752183484,
+      "text": "nts men's soccer team represents the University of Vermont in all NCAA Division I men's college soccer competitions. The team competes in the America East Conference. Vermont Catamounts men's ice hockey: The Vermont Catamounts men's ice hockey team is a National Collegiate Athletic Association (NCAA) Division I college ice hockey program that represents the University of Vermont. The Catamounts are a member of Hockey East, joining in 2005 after competing in ECAC Hockey from 1974-2005. They play home games",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 16,
+        "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+        "answer": "the North Atlantic Conference",
+        "role": "development",
+        "chunk_id": "hotpotqa_16_256"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 261,
+      "score": 44.04448975191029,
+      "text": "the conference's automatic bid into the 2012 NCAA Tournament. They defeated Lamar in the \"First Four\" round before falling to North Carolina in the second round. Vermont Catamounts men's basketball: The Vermont Catamounts Basketball team is the basketball team that represents the University of Vermont in Burlington, Vermont. The school's team currently competes in the America East Conference and plays its home games at Patrick Gym. The team has reached the NCAA Division I Men's Basketball Tournament six",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 16,
+        "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+        "answer": "the North Atlantic Conference",
+        "role": "development",
+        "chunk_id": "hotpotqa_16_262"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "query": "Who is older, Annie Morton or Terry Richardson?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 121,
+      "score": 24.822273391332555,
+      "text": "Annie Morton: Annie Morton (born October 8, 1970) is an American model born in Pennsylvania. She has appeared on the covers of \"British Vogue\", \"ID\", \"Marie Claire\", and other magazines. She has been photographed by Helmut Newton; Peter Lindbergh; Annie Leibovitz; Richard Avedon; Juergen Teller; Paul Jasmin, Mary Ellen Mark and Terry Richardson, and modeled for Donna Karan, Givenchy, Guerlain, Chanel, \"Harper's Bazaar\", \"Sports Illustrated\" and Victoria's Secret. A long time vegetarian, an advocate for",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 8,
+        "question": "Who is older, Annie Morton or Terry Richardson?",
+        "answer": "Terry Richardson",
+        "role": "development",
+        "chunk_id": "hotpotqa_8_122"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 83554,
+      "score": 16.15549345661196,
+      "text": "dited with the discovery of the greenhouse effect. Morton number: In fluid dynamics, the Morton number (Mo) is a dimensionless number used together with the Eötvös number or Bond number to characterize the shape of bubbles or drops moving in a surrounding fluid or continuous phase, \"c\". The Morton number is defined as Qualified Person for Pharmacovigilance: A Qualified Person Responsible for Pharmacovigilance, or QPPV, is an individual named by a pharmaceutical company as the main person responsible for",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 6116,
+        "question": "What was the nationality and profession of the person responsible for the concept of a dimensionless number in physics and engineering?",
+        "answer": "French mathematician and physicist",
+        "role": "development",
+        "chunk_id": "hotpotqa_6116_83555"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 123,
+      "score": 15.356143373059645,
+      "text": "002 by Michael O'Mara Books in the United Kingdom. Morton decided to write a biography on Madonna in 2000. The release was announced in April 2001 by St. Martin's Press. President and publisher Sally Richardson described the biography to contain details about Madonna's ambitions, her relationships and her lifestyle. Terry Richardson: Terrence \"Uncle Terry\" Richardson (born August 14, 1965) is an American fashion and portrait photographer who has shot advertising campaigns for Marc Jacobs, Aldo, Supreme,",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 8,
+        "question": "Who is older, Annie Morton or Terry Richardson?",
+        "answer": "Terry Richardson",
+        "role": "development",
+        "chunk_id": "hotpotqa_8_124"
+      }
+    }
+  ]
+}

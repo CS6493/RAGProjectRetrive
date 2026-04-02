@@ -1,0 +1,53 @@
+{
+  "query": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 43,
+      "score": 47.24021258709521,
+      "text": "and-painted blue tiles adorn the mosque’s interior walls, and at night the mosque is bathed in blue as lights frame the mosque’s five main domes, six minarets and eight secondary domes. It sits next to the Hagia Sophia, another popular tourist site. Laleli Mosque: The Laleli Mosque (Turkish: \"Laleli Camii, or Tulip Mosque\" ) is an 18th-century Ottoman imperial mosque located in Laleli, Fatih, Istanbul, Turkey. Esma Sultan Mansion: The Esma Sultan Mansion (Turkish: \"Esma Sultan Yalısı\" ), a historical yalı",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 3,
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "answer": "no",
+        "role": "development",
+        "chunk_id": "hotpotqa_3_44"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 41,
+      "score": 29.083382150098842,
+      "text": "ttoman Navy) from 11 March 1792 to 7 December 1803. He was a \"damat\" (\"bridegroom\") to the Ottoman dynasty after he married an Ottoman princess, Esma Sultan. Esma Sultan (daughter of Abdul Hamid I): Esma Sultan (17 July 1778 – 4 June 1848) was an Ottoman princess, daughter of Sultan Abdul Hamid I, sister of Sultan Mustafa IV and Sultan Mahmud II. She was the adoptive mother of Bezmiâlem Sultan and Rahime Perestu Sultan. Sultan Ahmed Mosque: The Sultan Ahmed Mosque or Sultan Ahmet Mosque (Turkish: \"Sultan",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 3,
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "answer": "no",
+        "role": "development",
+        "chunk_id": "hotpotqa_3_42"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 44,
+      "score": 27.4533304435665,
+      "text": "Turkish: \"Esma Sultan Yalısı\" ), a historical yalı (English: waterside mansion ) located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey and named after its original owner Esma Sultan, is used today as a cultural center after being redeveloped. Esma Sultan: Esma Sultan is the name of three daughters of three Ottoman Sultans: Gevheri Kadın: Gevheri Kadın (8 July 1856 – 6 September 1884) was the fifth wife of 32nd Ottoman Sultan Abdülaziz. She was the mother of Şehzade Mehmed Seyfeddin and Esma",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 3,
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "answer": "no",
+        "role": "development",
+        "chunk_id": "hotpotqa_3_45"
+      }
+    }
+  ]
+}

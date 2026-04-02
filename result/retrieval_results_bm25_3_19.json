@@ -1,0 +1,53 @@
+{
+  "query": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 290,
+      "score": 37.3290827664369,
+      "text": "an during World War II in the Pacific theater. His other roles included Assistant Secretary for Health and Scientific Affairs in the Department of Health, Education, and Welfare (now the United States Department of Health and Human Services) during the Nixon administration and Dean of the University of Southern California's medical school. Edward D. Martin: Rear Admiral Edward Dana Martin (MD) is the former Acting Assistant Secretary of Defense (Health Affairs). He was appointed to two terms, originally in",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 18,
+        "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+        "answer": "1969 until 1974",
+        "role": "development",
+        "chunk_id": "hotpotqa_18_291"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 278,
+      "score": 34.56391076902213,
+      "text": "llege president. He was the fifteenth president of Wesleyan University, in Middletown, Connecticut, from 1995 to 2007. Before that, he served as Assistant Secretary of State for International Organization Affairs in the Clinton Administration (1993–95) and Assistant Secretary of State for Legislative Affairs in the Carter administration (1977–79), was the President and CEO of National Public Radio (1983–93), and ran the U.S. Agency for International Development under President Carter (1979–81). Richard",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 18,
+        "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+        "answer": "1969 until 1974",
+        "role": "development",
+        "chunk_id": "hotpotqa_18_279"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 27604,
+      "score": 29.066964438964927,
+      "text": "Edward C. Hugler: Edward Charles \"Ed\" Hugler (born February 7, 1950) is Deputy Assistant Secretary for Operations in the U.S. Department of Labor's Office of the Assistant Secretary for Administration and Management. That position has been his formal position at the United States Department of Labor since April 2000. However, he served as Acting Secretary of Labor from February 2–24, 2009, when Hilda Solis's nomination by President Barack Obama became bogged down during Senate confirmation hearings. He",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 2025,
+        "question": "Edward C. Hugger and Alexander Acosta served at appointees for what job?",
+        "answer": "Secretary of Labor",
+        "role": "development",
+        "chunk_id": "hotpotqa_2025_27605"
+      }
+    }
+  ]
+}

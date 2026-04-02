@@ -1,0 +1,53 @@
+{
+  "query": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 294,
+      "score": 27.815270058784066,
+      "text": "Asgard (yacht): Asgard is a 51 ft gaff rigged yacht. She was owned by the English-born writer and Irish nationalist Erskine Childers and his wife Molly Childers. She is most noted for her use in the Howth gun-running of 1914. Henry Roth: Henry Roth (February 8, 1906 – October 13, 1995) was an American novelist and short story writer. R509 road (Ireland): The R509 road, following part of the Childers Road (named after Erskine Childers), is a regional road in Ireland, running through the southeastern side of",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 19,
+        "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+        "answer": "Robert Erskine Childers DSC",
+        "role": "development",
+        "chunk_id": "hotpotqa_19_295"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 296,
+      "score": 25.36842221647189,
+      "text": "d the writer and Irish nationalist, Robert Erskine Childers. Their son, Erskine Hamilton Childers, became the fourth President of Ireland. Gretchen Osgood Warren: Gretchen Osgood Warren (19 March 1868 – September 1961), the wife of Fiske Warren, was an actress, singer and poet. The daughter of Dr. Hamilton Osgood and Margaret Cushing Osgood of Beacon Hill, Boston, Massachusetts, her younger sister was Mary Alden Childers, the wife of writer and Irish nationalist Robert Erskine Childers. Her nephew Erskine",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 19,
+        "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+        "answer": "Robert Erskine Childers DSC",
+        "role": "development",
+        "chunk_id": "hotpotqa_19_297"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 297,
+      "score": 24.02003646995492,
+      "text": "nalist Robert Erskine Childers. Her nephew Erskine Hamilton Childers served as the fourth President of Ireland from 1973-74. Robert Caesar Childers: Robert Caesar Childers (1838 – 25 July 1876) was a British Orientalist scholar, compiler of the first Pāli-English dictionary. Childers was the husband of Anna Barton of Ireland. He was the father of Irish nationalist Robert Erskine Childers and grandfather to the fourth President of Ireland, Erskine Hamilton Childers. Robert Erskine Childers: Robert Erskine",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 19,
+        "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+        "answer": "Robert Erskine Childers DSC",
+        "role": "development",
+        "chunk_id": "hotpotqa_19_298"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "query": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 52318,
+      "score": 34.055826107384874,
+      "text": "other composers such as Giuseppe Verdi (1813–1901).",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 3842,
+        "question": "Which composer was born later, Gaetano Donizetti or William Walton?",
+        "answer": "William Turner Walton",
+        "role": "development",
+        "chunk_id": "hotpotqa_3842_52319"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 268,
+      "score": 33.114727012217415,
+      "text": "of Italy. The airport was opened on 5 May 1991. It is also known as Giuseppe Verdi Airport or Parma \"Giuseppe Verdi\" Airport, named after Giuseppe Verdi. Giuseppe Verdi: Giuseppe Fortunino Francesco Verdi (] ; 9 or 10 October 1813 – 27 January 1901) was an Italian opera composer. Teatro Giuseppe Verdi: Teatro Giuseppe Verdi (the Giuseppe Verdi Theatre) is a small opera house located in a wing of the Rocca dei Marchesi Pallavicino on the Piazza Giuseppe Verdi in Busseto, Italy, a town closely associated",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 17,
+        "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+        "answer": "yes",
+        "role": "development",
+        "chunk_id": "hotpotqa_17_269"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 269,
+      "score": 32.13852459000963,
+      "text": "Verdi in Busseto, Italy, a town closely associated with the life of the opera composer, Giuseppe Verdi. From the 13th century, the “rocca” or “fortress” was the family’s palace; it is now the city hall after being acquired by the municipality in 1856. The theatre opened on 15 August 1868 and seats 300. Ambroise Thomas: Charles Louis Ambroise Thomas (5 August 1811 – 12 February 1896) was a French composer, best known for his operas \"Mignon\" (1866) and \"Hamlet\" (1868, after Shakespeare) and as Director of",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 17,
+        "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+        "answer": "yes",
+        "role": "development",
+        "chunk_id": "hotpotqa_17_270"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "query": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 58,
+      "score": 16.789149482241058,
+      "text": "was extensively shot in Mumbai, New York City and Bangkok. The main plot was taken from the Russian romantic comedy \"The Irony of Fate\" (1976). After numerous delays, the film released on 10 July 2015. Big Stone Gap (film): Big Stone Gap is a 2014 American drama romantic comedy film written and directed by Adriana Trigiani and produced by Donna Gigliotti for Altar Identity Studios, a subsidiary of Media Society. Based on Trigiani's 2000 best-selling novel of the same name, the story is set in the actual",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 4,
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "answer": "Greenwich Village, New York City",
+        "role": "development",
+        "chunk_id": "hotpotqa_4_59"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 47,
+      "score": 12.55615899895123,
+      "text": "Just Another Romantic Wrestling Comedy: Just Another Romantic Wrestling Comedy is a 2006 film starring April Hunter and Joanie Laurer. This Romantic comedy film was premiered at New Jersey and New York City on December 1, 2006 and was released on DVD in the United States and the United Kingdom on April 17, 2007. After the film's DVD release \"Just Another Romantic Wrestling Comedy\" won an \"Honorable Mention\" award at the New Jersey International Festival awards. The release is being handled by \"Victory",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 4,
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "answer": "Greenwich Village, New York City",
+        "role": "development",
+        "chunk_id": "hotpotqa_4_48"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 54252,
+      "score": 12.143897822919616,
+      "text": "nd romantic subjects, such as \"Love Story\" (1970), which was nominated for seven Oscars. Sarah Jacobson: Sarah Jacobson (August 25, 1971, Norwalk, Connecticut – February 13, 2004 New York City) was an independent filmmaker who wrote, produced, and filmed her own movies.",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 3985,
+        "question": "Who was born first, Sarah Jacobson or Arthur Hiller?",
+        "answer": "Arthur Hiller",
+        "role": "development",
+        "chunk_id": "hotpotqa_3985_54253"
+      }
+    }
+  ]
+}

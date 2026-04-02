@@ -1,0 +1,53 @@
+{
+  "query": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 119,
+      "score": 34.60777422010299,
+      "text": "ink can seat up to 1,400 people and is the home to the Niagara Purple Eagles men's ice hockey team, which plays in Atlantic Hockey. The arena was formerly home to the women's ice hockey team, which played in College Hockey America. 2006–07 QMJHL season: The 2006–07 QMJHL season was the 38th season in the history of the Quebec Major Junior Hockey League. The regular season ran from September 14, 2006 to March 18, 2007. Eighteen teams played 70 games each in the schedule. The Lewiston Maineiacs finished",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 7,
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "answer": "3,677 seated",
+        "role": "development",
+        "chunk_id": "hotpotqa_7_120"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 120,
+      "score": 24.38940221620376,
+      "text": "h in the schedule. The Lewiston Maineiacs finished first overall in the regular season winning their first Jean Rougeau Trophy. Lewiston won 16 playoff games, losing only one, en route to their first President's Cup, defeating the Val-d'Or Foreurs in the finals.",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 7,
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "answer": "3,677 seated",
+        "role": "development",
+        "chunk_id": "hotpotqa_7_121"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 14625,
+      "score": 18.957889974895448,
+      "text": "Rampage played their home games at Van Andel Arena.",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 1075,
+        "question": "Van Andel Institute was founded in part by what American businessman, who was best known as co-founder of the Amway Corporation?",
+        "answer": "Jay Van Andel",
+        "role": "development",
+        "chunk_id": "hotpotqa_1075_14626"
+      }
+    }
+  ]
+}

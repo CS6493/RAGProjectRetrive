@@ -1,0 +1,53 @@
+{
+  "query": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 63,
+      "score": 37.81020911094292,
+      "text": "s a member of South Korean boy group Super Junior, its sub-groups Super Junior-K.R.Y., Super Junior-M and a former member of the South Korean ballad group S.M. the Ballad. He is one of the first four Korean artists to appear on Chinese postage stamps. 2014 S/S: 2014 S/S is the debut album of South Korean group WINNER. It was released on August 12, 2014 by the group's record label, YG Entertainment. The members were credited for writing the lyrics and composing the majority of the album's songs. History",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 5,
+        "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+        "answer": "YG Entertainment",
+        "role": "development",
+        "chunk_id": "hotpotqa_5_64"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 68,
+      "score": 29.307399325957515,
+      "text": "orean: 에스에프나인 ; shortened from Sensational Feeling 9) is a South Korean boy group formed by FNC Entertainment. SF9 is the company's first dance boy group to ever debut. SF9 debuted on October 5, 2016 with the release of their first single album \"Feeling Sensation\". Seventeen discography: This is the discography of South Korean boy group Seventeen. Seventeen (Hangul: 세븐틴), also stylized as SEVENTEEN or SVT, is a South Korean boy group formed by Pledis Entertainment in 2015. They have released one album and",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 5,
+        "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+        "answer": "YG Entertainment",
+        "role": "development",
+        "chunk_id": "hotpotqa_5_69"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 62679,
+      "score": 26.42339751075276,
+      "text": "sub-unit of South Korean boy group EXO. Formed by S.M. Entertainment in 2016, the group is composed of three EXO members: Chen, Baekhyun, and Xiumin. Their debut extended play \"Hey Mama! \" was released in October 2016.",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 4587,
+        "question": "How many members were in the South Korean boy group whose first official sub-unit is Bastarz?",
+        "answer": "seven members",
+        "role": "development",
+        "chunk_id": "hotpotqa_4587_62680"
+      }
+    }
+  ]
+}

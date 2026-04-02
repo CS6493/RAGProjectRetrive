@@ -1,0 +1,53 @@
+{
+  "query": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 228,
+      "score": 46.424948858264905,
+      "text": "ur of Sir Matt Busby, the football manager who was born in Bellshill in 1909, managed Manchester United from 1945 to 1969 and died in 1994. Ernest Mangnall: James Ernest Mangnall (4 January 1866 – 13 January 1932) was an English football manager who started his career with Burnley and managed Manchester United between 1903–1912 and then went on to manage Manchester City from 1912–1924, and is the only man to date to have managed both clubs. David Beckham Academy: The David Beckham Academy was a football",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 14,
+        "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+        "answer": "from 1986 to 2013",
+        "role": "development",
+        "chunk_id": "hotpotqa_14_229"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 227,
+      "score": 27.150810078772153,
+      "text": "embley Stadium and contested by Manchester United, who had won the Double of Premier League and FA Cup in 1995–96, and Newcastle United, who had finished as runners-up in the Premier League. Manchester United won the match 4–0 with goals from Eric Cantona, Nicky Butt, David Beckham and Roy Keane. Sir Matt Busby Sports Complex: The Sir Matt Busby Sports Complex is a public leisure centre located in Bellshill, North Lanarkshire, Scotland. It is named in honour of Sir Matt Busby, the football manager who was",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 14,
+        "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+        "answer": "from 1986 to 2013",
+        "role": "development",
+        "chunk_id": "hotpotqa_14_228"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 229,
+      "score": 25.861590973128024,
+      "text": "Academy: The David Beckham Academy was a football school founded by England international David Beckham in 2005. In 2009 it operated in two locations: in London, United Kingdom, and in Los Angeles, California, United States. The academy pulled out of the London site at the end of the lease in October 2009, and the California branch closed soon after. 1995–96 Manchester United F.C. season: The 1995–96 season was Manchester United's fourth season in the Premier League, and their 21st consecutive season in",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 14,
+        "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+        "answer": "from 1986 to 2013",
+        "role": "development",
+        "chunk_id": "hotpotqa_14_230"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "query": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 36,
+      "score": 43.619074016153505,
+      "text": "s is a science fantasy series of young adult books written by Katherine Applegate and her husband Michael Grant, writing together under the name K. A. Applegate, and published by Scholastic. It is told in first person, with all six main characters taking turns narrating the books through their own perspectives. Horror, war, dehumanization, sanity, morality, innocence, leadership, freedom and growing up are the core themes of the series. Etiquette &amp; Espionage: Etiquette & Espionage is a young adult",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 2,
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "answer": "Animorphs",
+        "role": "development",
+        "chunk_id": "hotpotqa_2_37"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 30,
+      "score": 27.534088650150483,
+      "text": "ots introduced in the adult novels. Like the adult series, the books were published by Tyndale House Publishing, and released over the 7 year period of 1997-2004. The series has sold over 11 million copies worldwide. List of Square Enix companion books: Dozens of Square Enix companion books have been produced since 1998, when video game developer Square began to produce books that focused on artwork, developer interviews, and background information on the fictional worlds and characters in its games rather",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 2,
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "answer": "Animorphs",
+        "role": "development",
+        "chunk_id": "hotpotqa_2_31"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 90235,
+      "score": 25.420477186088046,
+      "text": "ication. Isaac Asimov's Magical Worlds of Fantasy: Isaac Asimov's Magical Worlds of Fantasy is a series of twelve themed paperback fantasy and science fiction anthologies edited by Isaac Asimov, Martin H. Greenberg and Charles G. Waugh, a companion set to the ten volume \"Isaac Asimov's Wonderful Worlds of Science Fiction\", produced by the same editors. It was published by Signet/New American Library from 1983 to 1991. Volumes 1 and 2 were also issued in hardcover in an omnibus collection titled \"Isaac",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 6607,
+        "question": " Are Isaac Asimov and Michael Cunningham both American writers?",
+        "answer": "no",
+        "role": "development",
+        "chunk_id": "hotpotqa_6607_90236"
+      }
+    }
+  ]
+}

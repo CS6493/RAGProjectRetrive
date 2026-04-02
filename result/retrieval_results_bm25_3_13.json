@@ -1,0 +1,53 @@
+{
+  "query": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 191,
+      "score": 33.676847953680536,
+      "text": "ollows former New York Police Department detective Jericho Cane (Schwarzenegger) after he saves a banker (Byrne) from an assassin, finds himself embroiled in a religious conflict, and must protect an innocent young woman (Tunney) who is chosen by evil forces to conceive the Antichrist with Satan. Oh My God (Guns N' Roses song): \"Oh My God\" is a song by Guns N' Roses released in 1999 on the soundtrack to the film \"End of Days\". The song was sent out to radio stations in November 1999 as a promo for the",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 12,
+        "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+        "answer": "1999",
+        "role": "development",
+        "chunk_id": "hotpotqa_12_192"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 180,
+      "score": 30.14368805901497,
+      "text": "Arnold Schwarzenegger filmography: Arnold Schwarzenegger is an actor who has appeared in over 30 films, and has also ventured into directing and producing. He began his acting career primarily with small roles in film and television. For his first film role, he was credited as \"Arnold Strong\", but was credited with his birth name thereafter. He has appeared mainly in action, and comedy films. In addition to films and television, he has appeared in music videos for AC/DC, Bon Jovi, and Guns N' Roses. Guns",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 12,
+        "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+        "answer": "1999",
+        "role": "development",
+        "chunk_id": "hotpotqa_12_181"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 190,
+      "score": 29.558901815326067,
+      "text": "universe. Schwarzenegger also served as the film's executive producer and plays himself as the actor portraying Jack Slater, and Charles Dance plays an assassin who escapes from the \"Slater\" world into the real world. End of Days (film): End of Days is a 1999 American fantasy action horror thriller film directed by Peter Hyams and starring Arnold Schwarzenegger, Gabriel Byrne, Robin Tunney, Kevin Pollak, Rod Steiger, CCH Pounder, and Udo Kier. The film follows former New York Police Department detective",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 12,
+        "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+        "answer": "1999",
+        "role": "development",
+        "chunk_id": "hotpotqa_12_191"
+      }
+    }
+  ]
+}

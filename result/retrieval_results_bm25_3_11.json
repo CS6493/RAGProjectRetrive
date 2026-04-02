@@ -1,0 +1,53 @@
+{
+  "query": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 165,
+      "score": 33.74830626558492,
+      "text": "referred to as KU or Kansas, is a public research university in the U.S. state of Kansas. The main campus in Lawrence, one of the largest college towns in Kansas, is on Mount Oread, the highest elevation in Lawrence. Two branch campuses are in the Kansas City metropolitan area: the Edwards Campus in Overland Park, and the university's medical school and hospital in Kansas City. There are also educational and research sites in Parsons, Topeka, Garden City, Hays, and Leavenworth, and branches of the medical",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 10,
+        "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+        "answer": "Kansas Song",
+        "role": "development",
+        "chunk_id": "hotpotqa_10_166"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 150,
+      "score": 25.226076246869283,
+      "text": "north of North Kansas City's northern city limits. North Kansas City also adjoins the small municipality of Avondale. University of Missouri–Kansas City: The University of Missouri–Kansas City (UMKC) is a public research university serving the greater Kansas City metropolitan area. Located in Kansas City, Missouri, UMKC is one of four system campuses that collectively constitute the University of Missouri. UMKC is spread across multiple locales; the main Volker Campus, home to the majority of university",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 10,
+        "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+        "answer": "Kansas Song",
+        "role": "development",
+        "chunk_id": "hotpotqa_10_151"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 12801,
+      "score": 23.53592989721369,
+      "text": "arch Center Forschungszentrum Karlsruhe, which was originally established as a national nuclear research center (Kernforschungszentrum Karlsruhe, or KfK) in 1956. Florida International University: Florida International University (FIU) is an American metropolitan public research university in Greater Miami, Florida, United States. FIU has two major campuses in Miami-Dade County, with its main campus in University Park. Florida International University is classified as a research university with highest",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 939,
+        "question": "What is the founding year of this public research university in the Netherlands, where Jan Borgman was a professor from 1968 to 1988?",
+        "answer": "1614",
+        "role": "development",
+        "chunk_id": "hotpotqa_939_12802"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "query": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 237,
+      "score": 28.82086867663905,
+      "text": "366 acreas of land, mostly tall grass prairie with numerous wooded areas. The lake is owned by the State of Kansas. Brown State Fishing Lake: Brown State Fishing Lake (sometimes also known as Brown State Fishing Lake And Wildlife Area) is a protected area in Brown County, Kansas in the United States. The lake is 62 acres (0.25 km²) in area and up to 13 feet (4 m) deep. The area was formerly known as Brown County State Park, and is 8 miles (13 km) east of Hiawatha, Kansas. Neosho State Fishing Lake: Neosho",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 15,
+        "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+        "answer": "9,984",
+        "role": "development",
+        "chunk_id": "hotpotqa_15_238"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 248,
+      "score": 20.010631040082412,
+      "text": "s thick in the winter making this lake an all year round fishing lake. Brown County, Kansas: Brown County (county code BR) is a county located in the northeast portion of the U.S. state of Kansas. As of the 2010 census, the county population was 9,984. Its county seat and most populous city is Hiawatha. Brown County is the location of the Kickapoo Indian Reservation of Kansas, the majority of the Sac and Fox Reservation and the majority of the Iowa Reservation of Kansas and Nebraska.",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 15,
+        "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+        "answer": "9,984",
+        "role": "development",
+        "chunk_id": "hotpotqa_15_249"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 238,
+      "score": 19.2015968171172,
+      "text": "iawatha, Kansas. Neosho State Fishing Lake: Neosho State Fishing Lake, also known as Lake McKinley is located in the state of Kansas. Located 5 mi north on highway 59 and 4 mi east on 40th Rd from the city of Parsons, Kansas, USA. Construction of this lake was completed in 1927. The lake covers 92 acre of water. There are 124 public use acres surrounding the lake. Fishing, camping, and picnicking are popular activities. The park has a shelter house, fishing piers, picnic tables, barbecue grills, vault",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 15,
+        "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+        "answer": "9,984",
+        "role": "development",
+        "chunk_id": "hotpotqa_15_239"
+      }
+    }
+  ]
+}

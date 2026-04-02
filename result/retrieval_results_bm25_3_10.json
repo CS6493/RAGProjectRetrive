@@ -1,0 +1,53 @@
+{
+  "query": "Are Local H and For Against both from the United States?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 21927,
+      "score": 12.30620156895056,
+      "text": "h its main campus in Macon, Georgia, United States.",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 1608,
+        "question": "What is the mascot of the oldest private university in Georgia?",
+        "answer": "The Bears",
+        "role": "development",
+        "chunk_id": "hotpotqa_1608_21928"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 71560,
+      "score": 10.721340022975438,
+      "text": "The Team EP: The Team EP (stylized as The TEAM ep) is an extended play (EP) by American alternative rock band Local H. \"The Team EP\" is the first Local H release to feature drummer Ryan Harding, who joined the band in November 2013, and was initially sold exclusively at Local H concerts. Limited copies have since been made available online from G&P Records, the band's official merchandiser. Four Seasons Wines: Four Seasons Wines Limited is an Indian winery which was established in 2006,based in Bangalore,",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 5235,
+        "question": "Are both American bands The Four Seasons and Local H popular around the Beatles were around?",
+        "answer": "no",
+        "role": "development",
+        "chunk_id": "hotpotqa_5235_71561"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 67000,
+      "score": 10.405970639546041,
+      "text": "h descent to run for Congress in the United States.",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 4901,
+        "question": "Kathleen Matthews holds what political position in the Maryland Democratic Party?",
+        "answer": "current state party chair",
+        "role": "development",
+        "chunk_id": "hotpotqa_4901_67001"
+      }
+    }
+  ]
+}

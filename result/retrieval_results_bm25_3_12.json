@@ -1,0 +1,53 @@
+{
+  "query": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and Téa Leoni?",
+  "method": "bm25",
+  "metric": "bm25_score",
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": 173,
+      "score": 42.912987342123394,
+      "text": "His film credits include \"The Family Man\" (2000), \"Evolution\" (2001), and \"\"When in Rome\"\" (2010). Deadfall (1993 film): Deadfall is a 1993 crime drama film directed by Christopher Coppola. Coppola co-wrote the script with Nick Vallelonga. The film stars Michael Biehn, Nicolas Cage, Charlie Sheen, James Coburn, and Peter Fonda. It is also the prime influence on the song 'Deadfall', written by the American hardcore punk band Snot. A prequel/sequel, \"Arsenal\", starring Nicolas Cage as his character Eddie",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 11,
+        "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and Téa Leoni?",
+        "answer": "David Weissman",
+        "role": "development",
+        "chunk_id": "hotpotqa_11_174"
+      }
+    },
+    {
+      "rank": 2,
+      "chunk_id": 178,
+      "score": 37.40030603150903,
+      "text": "mantic comedy-drama film directed by Brett Ratner, written by David Diamond and David Weissman, and starring Nicolas Cage and Téa Leoni. Cage's production company, Saturn Films, helped produce the film. The film centers on a man who sees what could have been had he made a different decision 13 years prior.",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 11,
+        "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and Téa Leoni?",
+        "answer": "David Weissman",
+        "role": "development",
+        "chunk_id": "hotpotqa_11_179"
+      }
+    },
+    {
+      "rank": 3,
+      "chunk_id": 172,
+      "score": 29.135697611819605,
+      "text": "0 Seconds\". Time to Kill (1989 film): Time to Kill (Italian: Tempo di uccidere ) is a 1989 Italian drama film starring Nicolas Cage and Italian actors Ricky Tognazzi and Giancarlo Giannini . It is directed by Giuliano Montaldo. The film is set in 1936, when Ethiopia was an Italian colony, and was filmed in Zimbabwe. It is based on the novel with the same name written by Ennio Flaiano. David Weissman: David Weissman is a screenwriter and director. His film credits include \"The Family Man\" (2000),",
+      "embedding": null,
+      "metadata": {
+        "dataset": "hotpotqa",
+        "original_index": 11,
+        "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and Téa Leoni?",
+        "answer": "David Weissman",
+        "role": "development",
+        "chunk_id": "hotpotqa_11_173"
+      }
+    }
+  ]
+}
